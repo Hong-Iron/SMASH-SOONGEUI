@@ -1,0 +1,34 @@
+{
+ "region": "서울 중구 필동",
+ "nameEn": "Soongeui Women's College",
+ "added": "2026-11-01T02:27",
+ "rank": 310,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DGU",
+   "campus": "동국대학교 서울캠퍼스",
+   "km": 1.2
+  },
+  {
+   "code": "SOOKMYUNG",
+   "campus": "숙명여자대학교",
+   "km": 2.3
+  },
+  {
+   "code": "KYONGGI-SEOUL",
+   "campus": "경기대학교 서울캠퍼스",
+   "km": 2.4
+  },
+  {
+   "code": "MTU",
+   "campus": "감리교신학대학교",
+   "km": 2.5
+  },
+  {
+   "code": "SNU-YEONGEON",
+   "campus": "서울대학교 연건캠퍼스",
+   "km": 2.7
+  }
+ ]
+}
